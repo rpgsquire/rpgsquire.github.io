@@ -1,4 +1,6 @@
-<h2> HTML File template test</h2>
+## HTML File template test
+Markdown file with in-line HTML
+
 
 <h3>Horizontal row of items</h3>
 <div style="display: flex; align-items: center; justify-content: space-between;">
