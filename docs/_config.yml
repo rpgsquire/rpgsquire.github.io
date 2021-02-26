@@ -59,24 +59,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Full-stack developer and avid RPG enthusiast."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/rpgsquire/"
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://telegram.org/"
+      url: "https://github.com/beanpole135/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rpgsquire/"
