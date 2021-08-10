@@ -27,5 +27,5 @@ Being an application developer primarily, but already maintaining several go-bas
 * September, 2019 - Create a public GitHub repository to act as the database of JSON files.
 * February, 2020 - Start re-writing the calculation systems in Golang
 * May, 2020 - Picked go-app framework for the web app and started writing the site
-* January, 2021 - Starting to finish up the non-character interactions.
+* January, 2021 - Starting to finish up the non-character interactions (account systems, interactive database, etc)
 
