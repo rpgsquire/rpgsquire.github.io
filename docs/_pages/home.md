@@ -10,7 +10,7 @@ header:
       url: "https://app.rpgsquire.com"
 excerpt: >
   Your personal assistant for tabletop RPG's<br />
-  **Coming Soon!**
+  **Early-Access Now Open!**
 feature_row:
   - image_path: /assets/images/book-2152349_1920.jpg
     alt: ""
