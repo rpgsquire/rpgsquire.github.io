@@ -30,7 +30,7 @@ feature_row:
     alt: ""
     title: "History"
     excerpt: "History of the RPG Squire."
-    url: "/history/"
+    url: "/history"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
