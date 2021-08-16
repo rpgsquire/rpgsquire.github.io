@@ -47,5 +47,3 @@ I am pleased to announce that RPG Squire is now available for Early-Access avail
    * Use RPG Squire to manage your character between sessions, and then just bring a print-out to your next game session!
 
 ---
-~~ Ken Moore ~~
-[RPG Squire](htttps://rpgsquire.com)
